@@ -1,0 +1,13 @@
+{
+  "name": "apptest,
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "bin.js",
+  "bin": "bin.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "compression": "^1.7.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}

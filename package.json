@@ -4,6 +4,9 @@
   "description": "Just a test",
   "main": "bin.js",
   "bin": "bin.js",
+  "scripts": {
+    "start": "node bin.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
